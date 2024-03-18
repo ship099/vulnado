@@ -94,7 +94,7 @@ jobs:
         with:
           name: 'Veracode Pipeline-Scan Results'
       - name: Create flaws as issues
-        uses: VeraAccion10/veracode-flaws-to-issues@main
+        uses: VeraAccion10/veracode-flaws-to-issues@dam
         with:
           scan-results-json: 'filtered_results.json'
           repo_owner: ${{ inputs.owner }}
