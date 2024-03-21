@@ -1,4 +1,4 @@
-afadadscddzczcsfdfddfdfsfdddnado - Intentionally Vulnerable Java Application
+mlkllkmafadadscddzczcsfdfddfdfsfdddnado - Intentionally Vulnerable Java Application
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
 
