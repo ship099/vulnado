@@ -1,6 +1,6 @@
-# Vulnado - Intentionally Vulnerable Java Application
+mklkmdknkndssmlslnm kmknjfgfg,m.k;ksmlds.mn,kmlmadadfkmdcdfdfdfsfdddnado - Intentionally Vulnerable Java Application
 
-This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccc
+This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
 
 ## Up and running
 
@@ -12,7 +12,7 @@ This application and exercises will take you through some of the OWASP top 10 Vu
 6. Then back in your terminal verify you have connection to your API server: `nc -vz localhost 8080`
 
 ## Architecture
-
+sddsds
 The docker network created by `docker-compose` maps pretty well to a multi-tier architecture where a web server is publicly available and there are other network resources like a database and internal site that are not publicly available.
 
 ![](exercises/assets/arch.png)
