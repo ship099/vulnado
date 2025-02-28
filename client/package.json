@@ -2,6 +2,7 @@
     "name": "vulnerable-app",
     "dependencies": {
       "express": "4.16.0",  
-      "lodash": "4.17.19"   
+      "lodash": "4.17.19",
+      "axios": "1.8.1"
     }
   }

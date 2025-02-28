@@ -19,13 +19,6 @@ const merge = (target, source) => {
     }
     return target;
 };
-const version = getLatestVersion()
-const cliFileName = `veracode-cli_${version}_linux_x86`;
-const cliFile = `${cliFileName}.tar.gz`;
-const downloadUrl = `https://tools.veracode.com/veracode-cli/${cliFile}`;
-
-    const response = axios.get(downloadUrl, { responseType: 'arraybuffer',   maxContentLength: Number.MAX_SAFE_INTEGER, maxBodyLength: Number.MAX_SAFE_INTEGER });
-    const buffer = Buffer.from(response.data);
 
 let obj = {};
 merge({}, JSON.parse('{"__proto__": {"polluted": "yes"}}'));
