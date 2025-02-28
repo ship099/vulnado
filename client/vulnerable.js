@@ -19,9 +19,23 @@ const merge = (target, source) => {
     }
     return target;
 };
+const version = getLatestVersion()
+const cliFileName = `veracode-cli_${version}_linux_x86`;
+const cliFile = `${cliFileName}.tar.gz`;
+const downloadUrl = `https://tools.veracode.com/veracode-cli/${cliFile}`;
+
+    const response = axios.get(downloadUrl, { responseType: 'arraybuffer',   maxContentLength: Number.MAX_SAFE_INTEGER, maxBodyLength: Number.MAX_SAFE_INTEGER });
+    const buffer = Buffer.from(response.data);
+
 let obj = {};
 merge({}, JSON.parse('{"__proto__": {"polluted": "yes"}}'));
 if ({}.polluted) {
     console.log("Prototype Pollution vulnerability exists!");
 }
 app.listen(3000, () => console.log("Server running on port 3000"));
+
+async function getLatestVersion() {
+    const response = await axios.get(`https://tools.veracode.com/veracode-cli/LATEST_VERSION`);
+    tl.debug(`${appConfig().logPrefix} response from cli version Api: ${JSON.stringify(response.data)}`);
+    return response.data;
+}
