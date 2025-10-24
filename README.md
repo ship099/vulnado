@@ -1,5 +1,5 @@
 
-Intentionally Vulnerable Java Application New PR Testing for
+Intentionally Vulnerable Java Application New PR Testing for Sand
 
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
