@@ -1,5 +1,5 @@
 
-Intentionally Vulnerable Java Application New PR Testing for Sandbox Scan
+Intentionally Vulnerable Java Application New PR Testing for Sandbox Scan Application
 
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
