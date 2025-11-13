@@ -1,5 +1,5 @@
 
-Intentionally Vulnerable Java Application IaC Testing Pipeline Testing Testing Testing Testing Testing Testing Testing
+Intentionally Vulnerable Java Application IaC Testing Pipeline Testing Testing Testing Testing Testing Testing Testing Testing
 
 
 
