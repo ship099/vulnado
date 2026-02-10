@@ -1,5 +1,5 @@
 
-Intentionally Vulnerable Java Application Test tseg
+Intentionally Vulnerable Java Application Test
 
 
 
