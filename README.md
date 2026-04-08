@@ -1,5 +1,5 @@
 
-Intentionally Vulnerable Java Application Test test tets
+Intentionally Vulnerable Java Application Test test test
 
 
 
