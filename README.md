@@ -1,5 +1,5 @@
 
-Intentionally Vulnerable Java Application Test test test test test test test test test test test test test test test test test testtest
+Intentionally Vulnerable Java Application test
 
 
 
