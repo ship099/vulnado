@@ -1,6 +1,5 @@
 
-Intentionally Vulnerable Java Application test test tst test tesr test test test test test test test test
-
+Intentionally Vulnerable Java Application test
 
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
